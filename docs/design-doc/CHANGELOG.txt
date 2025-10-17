@@ -1,16 +1,10 @@
 Changelog
 =========
 
-Version vX.Y.Z - YYYY.mm.dd (release date)
+Version v0.0.1 - 2025.10.17
 ---------------------------
 ADDED:
-    - 
-
-CHANGED:
-    - 
-
-FIXED:
-    - 
-
-DEPRECATED:
-    - 
+    - Overview:
+        - Definition of the BinaryMathTree idea.
+        - How it differs from an AbstractSyntaxTree.
+        - Examples (2) of BMTs representation in a json format.
